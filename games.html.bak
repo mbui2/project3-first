@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My Favorite Games</title>
+    <link rel="stylesheet" href="assests/css/styles.css" />
+	<script src="js/script.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <nav>
+          <ul>
+            <li><a href="index.html">About Me</a></li>
+            <li><a href="cereal.html">My Favorite Cereals</a></li>
+            <li><a href="games.html">My Favorite Games</a></li>
+			<li><a href="map.html">Maps</a></li>
+          </ul>
+        </nav>
+      </header>
+      <section>
+        <h1>My Favorite Games</h1>
+        <div class="Witcher 3">
+          <h2>Witcher 3</h2>
+          <p>
+            The Witcher 3: Wild Hunt is the third and final installment in the series of games developed by CD Projekt RED featuring the
+            witcher Geralt of Rivia.
+          </p>
+          <p>
+            Unlike the previous games of the trilogy, The Witcher 3 is set in a multi-region open world, featuring over 100 hours of
+            content. Several early articles mentioned that the developers planned to have an open world similar to that of Skyrim, but 20%
+            larger.
+          </p>
+          <p>Favorite things about Witcher 3:</p>
+          <ul>
+            <li>Character and World Building</li>
+            <li>Realistic Graphics</li>
+            <li>Deceptively conventional quests morph into delightful rabbit holes</li>
+            <li>Unique locations</li>
+          </ul>
+          <iframe
+            width="894"
+            height="503"
+            src="https://www.youtube.com/embed/c0i88t0Kacs"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </section>
+      <section>
+        <div class="Cyberpunk 2077">
+          <h2>Cyberpunk 2077</h2>
+          <p>
+            Cyberpunk 2077 is an open-world, action-adventure role-playing video game, developed and published by CD Projekt RED that was
+            released December 10, 2020.
+          </p>
+          <p>
+            The player character V, is contracted along with Jackie Welles, to steal an important piece of technology from the Arasaka
+            Corporation - known as the chip of immortality - by fixer Dexter Deshawn. The duo manage to infiltrate the megacorp and steal
+            the device but the plan goes wrong.
+          </p>
+          <p>Favorite things about Cyberpunk 2077:</p>
+          <ul>
+            <li>Character Customization</li>
+            <li>Music</li>
+            <li>Driving</li>
+            <li>Gunplay And Gadgets</li>
+            <li>Fast Travel Points</li>
+          </ul>
+          <iframe
+            width="894"
+            height="503"
+            src="https://www.youtube.com/embed/LembwKDo1Dk"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </section>
+      <section>
+        <div class="The Last of Us 2">
+          <h2>The Last of Us 2</h2>
+          <p>
+            The Last of Us Part II is a third-person action-adventure, survival horror video game developed by Naughty Dog and published by
+            Sony Interactive Entertainment. It was released on June 19, 2020.
+          </p>
+          <p>
+            The game is the sequel to The Last of Us and picks up the story of Ellie and Joel five years after the events of the outbreak of
+            the Cordyceps brain infection.
+          </p>
+          <p>Favorite things about The last of Us 2 :</p>
+          <ul>
+            <li>Smooth Gameplay</li>
+            <li>Open-World environment</li>
+            <li>Stealhing</li>
+            <li>Story line</li>
+            <li>Game Soundtrack</li>
+          </ul>
+          <iframe
+            width="894"
+            height="503"
+            src="https://www.youtube.com/embed/qPNiIeKMHyg"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>

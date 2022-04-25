@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Project 1: About me</title>
+    <link href="assests/css/styles.css" rel="stylesheet" />
+	<script src="js/script.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <nav>
+          <ul>
+            <li>
+              <a href="index.html">About Me</a>
+            </li>
+            <li>
+              <a href="cereal.html">My Favorite Cereals</a>
+            </li>
+            <li>
+              <a href="games.html">My Favorite Games</a>
+            </li>
+			<li>
+              <a href="map.html">Maps</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <section>
+        <h1>Michael Bui</h1>
+        <p>A student always striving to be the best version of himself</p>
+        <h2>Contact Information</h2>
+        <p><strong>Email:</strong> mbui2@hawk.iit.edu</p>
+        <p><strong>Personal Email:</strong> mike.buiquang@gmail.com</p>
+        <h2>Skills</h2>
+        <h3>Technical</h3>
+        <ul>
+          <li>Coding Languages: Java,Python, HTML, CSS, JavaScript</li>
+        </ul>
+        <h3>Digital Tools</h3>
+        <ul>
+          <li>Programming: GitHub,</li>
+          <li>Other: Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator</li>
+        </ul>
+        <h3>Hobbies</h3>
+        <ul>
+          <li>Sports: Tennis, Ping Pong, Soccer, Basketball.</li>
+          <li>Artistic: Painting, Photoshop,Guitar.</li>
+          <li>Techincal: Coding, 3D Printing.</li>
+        </ul>
+        <h3>Languages</h3>
+        <ul>
+          <li>English</li>
+          <li>Vietnamese</li>
+          <li>Spanish</li>
+        </ul>
+        <h2>Experience</h2>
+        <h3>Intern for Ernst & Young in Forensic department</h3>
+        <p>June 2021- August 2021</p>
+        <ul>
+          <li>
+            Responsible for engineering activities that monitor, detect and alert on potential security threats and vulnerabilities to the
+            company's telecommunications and signal processing hardware, software and electrical systems.
+          </li>
+          <li>Monitors security dashboard alerts to identify and respond to security events.</li>
+          <li>Monitors and communicates threat intelligence from various resources that is relevant to networks and systems.</li>
+          <li>Participates in the response to cyber incidents by gathering data and artifacts relevant to the event.</li>
+        </ul>
+        <h3>Miriams coffee</h3>
+        <p>Sales staff, June 2018 - September 2018</p>
+        <ul>
+          <li>
+            Barista for busy 8:30 a.m. to 4:30 p.m. shift, which includedoverseeing the work of 2 other baristas, maintaining highservice
+            standards at all times
+          </li>
+          <li>
+            Make individualized coffee recommendations and educate interested customers on the sources and processes of the store’s premium
+            beans
+          </li>
+          <li>Assist to control goods in and out</li>
+          <li>Sanitized coffee equipment multiple times during each shift; maintained store cleanliness at all times</li>
+        </ul>
+        <h2>Education</h2>
+        <h3>Illinois Institute of Technology, Chicago, IL</h3>
+        <p>Graduation; May 2024</p>
+        <p>B.S. ITM and M.S. Computer Science</p>
+      </section>
+      <footer>
+        <p>Michael Minh Bui</p>
+        <address>
+          <p>
+            <a href="mailto:mbui2@hawk.iit.edu">mbui2@hawk.iit.edu</a>
+          </p>
+        </address>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,12 +1,14 @@
-function initMap(){
-    const place = {lat: -25.344, lng: 131};
-    const map = new google.maps.Map(document.getElementById("map"),{
-        zoom: 3,
-        center: place,
-    });
-    const marker = new google.maps.Marker({
-        position: place,
-        map: map,
-    });
+function init(){
+  function myEventFunction(){
+    alert('Welcome to my Page!');
+  }
+  var a1 = document.getElementById("header");
+
+  a1.addEventListener('click', myEventFunction);
+  a1.addEventListener('click',function(){
+ 	  console.log('Thanks for clicking!');
+    a1.style.background = 'rgb(165,105,189)';
+    a1.style.color = 'rgb(28,25,15)';
+  });
 }
-google.maps.event.addDomListener(window, 'load', initMap)
+window.addEventListener('load', init);
